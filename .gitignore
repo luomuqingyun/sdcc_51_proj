@@ -7,7 +7,7 @@ DebugConfig/
 output/
 build/
 
-*zip
+*.zip
 *.7z
 *.rar
 
